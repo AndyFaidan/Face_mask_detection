@@ -92,3 +92,4 @@ Then will start the Streamlit server and open your web browser to the default St
 ***
 
 If you also like this project, you may wish to give a `star` (^.^)✨ . If any questions, please raise `issue`~
+# face_mask_detection

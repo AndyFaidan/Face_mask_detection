@@ -5,3 +5,5 @@ numpy
 opencv-python==4.8.1.78
 opencv-python-headless==4.8.0.74
 Pillow==9.4.0
+torch==1.9.1
+torchvision==0.10.1
